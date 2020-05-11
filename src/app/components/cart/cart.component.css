@@ -1,0 +1,9 @@
+.alert.alert-info {
+    margin: 10px;
+}
+.list-grop {
+    margin: 10px;
+}
+.active {
+    background-color: rgb(177, 14, 14);
+}
